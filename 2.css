@@ -1,0 +1,7 @@
+.block {
+background-color: #787878;
+width: clamp(300px, 50%, 1000px);
+}
+
+
+
